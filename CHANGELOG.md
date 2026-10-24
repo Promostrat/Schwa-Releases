@@ -2,11 +2,14 @@
 
 Public release downloads and dates are available in [GitHub Releases](https://github.com/Promostrat/Schwa-Releases/releases). Entries marked unreleased describe development work, not an available update.
 
-## 0.1.2 — Unreleased
+## 0.1.2 — 24 October 2026
 
-Prepared for Mac testing on 24 October 2026. Build 7 updates the release-feed address following the repository rename.
+Published as [Schwa 0.1.2 (build 8)](https://github.com/Promostrat/Schwa-Releases/releases/tag/v0.1.2-8) for Mac testing on 24 October 2026. Build 7 updates the release-feed address following the repository rename; build 8 adds System/login settings and update indicators.
 
 ### Added
+
+- Green update-available menu-bar badge and top-right Download update action.
+- Launch at login toggle under General → System, backed by macOS login-item registration.
 
 - Optional Minimal dictation popup with live waveform, provider/model menu, adjustable size and remembered position.
 - Microphone selection in Settings and menu-bar controls.
@@ -19,6 +22,7 @@ Prepared for Mac testing on 24 October 2026. Build 7 updates the release-feed ad
 ### Improved
 
 - Current Schwa branding, compact navigation and category-based Settings.
+- Menu-bar icon creation at application launch, independent of main-window appearance.
 - Persistent menu-bar access and main-window-based Dock visibility.
 - Escape cancellation, recoverable recording behavior and input-stall reporting.
 - System-default and explicit-device audio capture; popup glow, model icons and dragging.
@@ -33,4 +37,4 @@ Development checkpoint: 113 FlowKit tests passed; Mac Debug and iOS Simulator bu
 
 ## 0.1.1 — Historical WhisperGO release
 
-Build 5 is the latest public release preceding the Schwa testing build. See its [release assets](https://github.com/Promostrat/Schwa-Releases/releases/tag/v0.1.1-5). Do not infer the unreleased features above are included in that archive.
+Build 5 was the public release preceding Schwa 0.1.2. See its [release assets](https://github.com/Promostrat/Schwa-Releases/releases/tag/v0.1.1-5). The Schwa 0.1.2 features above are not included in that archive.
