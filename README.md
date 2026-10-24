@@ -12,7 +12,7 @@ Native dictation and transcription for macOS, built with SwiftUI.
 
 </div>
 
-> The current Schwa build is being prepared for distribution. The latest published download still carries the former **WhisperGO** name. iOS development is ongoing; this testing release focuses on Mac.
+> **Schwa 0.1.2 (build 8) is available:** [Download for Mac](https://github.com/Promostrat/Schwa-Releases/releases/download/v0.1.2-8/Schwa-0.1.2-8.zip). Developer ID signed and notarized. iOS development is ongoing; this testing release focuses on Mac.
 
 ## A quieter way to get words down
 
